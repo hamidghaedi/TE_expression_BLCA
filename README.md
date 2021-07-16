@@ -35,4 +35,4 @@ Repetitive elements
 
 
 # Data download 
-Expression datasets can be download from Google drive [here](https://drive.google.com/drive/folders/132nV7uf3aLp3a8NzRK5GKgGuULo4xu2e?usp=sharing). In those files column names are UUID codes and need to be map to TCGA barcodes. To do so, gdc-manifest file [(click here)](https://raw.githubusercontent.com/hamidghaedi/TE_expression_BLCA/main/files/gdc_manifest_20210427_164957.txt)and table for id conversion is needed[(click here)](https://raw.githubusercontent.com/hamidghaedi/TE_expression_BLCA/main/files/id_table.csv). Both can be find in the files directory. 
+Expression datasets can be download from Google drive [here](https://drive.google.com/drive/folders/132nV7uf3aLp3a8NzRK5GKgGuULo4xu2e?usp=sharing). In those files column names are UUID codes and need to be map to TCGA barcodes. To do so, gdc-manifest file [(click here)](https://raw.githubusercontent.com/hamidghaedi/TE_expression_BLCA/main/files/gdc_manifest_20210427_164957.txt) and table for id conversion is needed[(click here)](https://raw.githubusercontent.com/hamidghaedi/TE_expression_BLCA/main/files/id_table.csv). Both can be find in the files directory. 
