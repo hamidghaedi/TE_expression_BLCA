@@ -35,4 +35,4 @@ Repetitive elements
 
 
 # Data download 
-Expression datasets can be download from Google drive [here](https://drive.google.com/drive/folders/132nV7uf3aLp3a8NzRK5GKgGuULo4xu2e?usp=sharing). In those files column names are UUID codes and need to be map to TCGA barcodes. Follow this script to see how this can be done. 
+Expression datasets can be download from Google drive [here](https://drive.google.com/drive/folders/132nV7uf3aLp3a8NzRK5GKgGuULo4xu2e?usp=sharing). In those files column names are UUID codes and need to be map to TCGA barcodes. To do so, gdc-manifest file and table for id conversion is needed. Both can be find in the files directory. 
