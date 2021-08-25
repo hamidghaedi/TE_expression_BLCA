@@ -1,7 +1,7 @@
 # TE_expression_BLCA
 Repo  for transposon-element expression in bladder cancer samples in TCGA (TCGA-BLCA).
 
-A 2020 review on the topic by  Sophie Lanciano & Gael Cristofari has published in [Nature Reviews Genetics](https://www.nature.com/articles/s41576-020-0251-y?proof=t) provides  fair amount of details on the methods for quantifying TE in RNA-seq data. 
+A 2020 review on the topic by  Sophie Lanciano & Gael Cristofari which has been published in [Nature Reviews Genetics](https://www.nature.com/articles/s41576-020-0251-y?proof=t) provides  fair amount of details on the methods for quantifying TE in RNA-seq data. 
 For gene expression analysis , the method explained in Yu Kong et al. [(Nature Communications volume 10, Article number: 5228 (2019))](https://www.nature.com/articles/s41467-019-13035-2), which they called it  "REdiscoverTE" was used. More details on how this tool works can be find [here](http://research-pub.gene.com/REdiscoverTEpaper/software/REdiscoverTE_README.html).
 
 Diffrent kind of expression data( raw count, normalized and ...)  were generated for 433 TCGA-BLCA cases and here is short description on each files(adapted from the software manual):
