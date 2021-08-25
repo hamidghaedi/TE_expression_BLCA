@@ -1,1 +1,1 @@
-Sharing files (small size) used for/generated during  data processing and data analysis
+Sharing files (small size) used for data processing or were generated during the data analysis process.
